@@ -1,1 +1,1 @@
-print("Lindo, lindo, lindo és")
+print("Lindo, lindo, lindo és, glória, glório eu te dou")
